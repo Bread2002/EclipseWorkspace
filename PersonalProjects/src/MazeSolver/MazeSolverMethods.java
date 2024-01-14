@@ -72,7 +72,7 @@ public class MazeSolverMethods {
 	
 	public void importMazeDim(String filename) {
 		try {
-			BufferedReader reader = new BufferedReader(new FileReader("src/" + filename));
+			BufferedReader reader = new BufferedReader(new FileReader("src/MazeSolver/" + filename));
 			
 			int currChar;
 			double i = 0, j = 1;
@@ -121,7 +121,7 @@ public class MazeSolverMethods {
 		importMazeDim(filename);
 		
 		try {
-			BufferedReader reader = new BufferedReader(new FileReader("src/" + filename));
+			BufferedReader reader = new BufferedReader(new FileReader("src/MazeSolver/" + filename));
 			
 			System.out.println("***Importing \"" + filename + "\" below...***");
 			
