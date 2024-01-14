@@ -1,8 +1,8 @@
 Rye Stahle-Smith
 <br>
-January 14th, 2024
+Last Updated: January 14th, 2024
 <br>
-Java: Personal Projects
+Personal Projects - Java
 <br>
 ------------------------------------------------------------
 
