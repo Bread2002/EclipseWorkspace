@@ -1,6 +1,6 @@
 Rye Stahle-Smith
 <br>
-Spring 2023
+January 14th, 2024
 <br>
 Java: Personal Projects
 <br>
