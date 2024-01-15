@@ -19,7 +19,7 @@ understanding maze representations, implementing efficient pathfinding algorithm
 not only challenged my logical thinking but also allowed me to delve into the intricacies of algorithm design within a Java
 programming context.
 
-Out of the many projects I’ve accomplished in my free time and through schoolwork, one that I'd like to highlight is RandomQuoteGen,
+Out of the many projects I’ve accomplished in my free time and through schoolwork, another one that I'd like to highlight is RandomQuoteGen, which I
 programmed quite recently using Java through Eclipse. The program utilized an API from the GitHub repository "quotable," made
 by user lukePeavey. Featuring a welcoming message and the option to request new quotes until told otherwise, the program was
 designed to interact with quotable's random quote generator API. Each project in this repository represents a unique learning
